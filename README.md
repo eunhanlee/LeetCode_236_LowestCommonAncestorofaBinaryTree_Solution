@@ -72,22 +72,22 @@ Explanation: The LCA of nodes 5 and 4 is 5, since a node can be a descendant of 
 
 ![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 1.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%201.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 2.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%202.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 3.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%203.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 4.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%204.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 5.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%205.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 6.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%206.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 7.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%207.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 8.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%208.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 9.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%209.png)
 
-![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/7ed10d4ca255aeae7eacaaaaab72c7e042cc9b37/photos/Untitled 10.png)
+![Untitled](https://github.com/eunhanlee/LeetCode_236_LowestCommonAncestorofaBinaryTree_Solution/blob/dabc55cb65c4f8cf13af68d89d526e02b4e1a99e/photos/Untitled%2010.png)
